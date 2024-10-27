@@ -12,6 +12,5 @@
     <button onclick="procesar()">Calcular y verificar</button>
 
     <div id="resultado">Esperando valores...</div>
-    <div id="mensaje" class="mensaje"></div> <!-- Div para el mensaje -->
-
+    <div id="mensaje" class="mensaje"></div> 
 </div>
